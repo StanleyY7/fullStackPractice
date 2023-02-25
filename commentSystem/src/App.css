@@ -1,0 +1,24 @@
+.content__wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.card__wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.div__wrapper {
+  width: 100vw;
+}
+
+body {
+  color: black;
+}
+
+button {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}

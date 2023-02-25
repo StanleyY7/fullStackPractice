@@ -1,0 +1,14 @@
+.CommentDisplay__wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  width: 65%;
+  text-align: center;
+  .textfieldName__wrapper {
+    display: flex;
+    justify-content: center;
+
+    .textfieldName {
+      width: 25%;
+    }
+  }
+}
